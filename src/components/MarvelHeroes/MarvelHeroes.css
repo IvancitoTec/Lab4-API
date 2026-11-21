@@ -22,7 +22,7 @@
   flex: 1;
   min-width: 300px;
   padding: 15px 20px;
-  border: 2px solid #e62429;
+  border: 2px solid #164204;
   border-radius: 25px;
   font-size: 16px;
   outline: none;
@@ -36,13 +36,13 @@
 }
 
 .search-input:focus {
-  border-color: #ff6b6b;
+  border-color: #164204;
   box-shadow: 0 0 0 3px rgba(230, 36, 41, 0.3);
   background: rgba(255, 255, 255, 0.15);
 }
 
 .hero-count {
-  background: #e62429;
+  background: #164204;
   color: white;
   padding: 10px 20px;
   border-radius: 25px;
@@ -65,7 +65,7 @@
 }
 
 .heroes-section h3 {
-  color: #e62429;
+  color: #164204;
   margin-bottom: 20px;
   font-size: 1.5em;
   text-align: left;
@@ -93,11 +93,11 @@
 .hero-card:hover {
   transform: translateY(-8px) scale(1.02);
   box-shadow: 0 15px 35px rgba(230, 36, 41, 0.3);
-  border-color: #e62429;
+  border-color: #164204;
 }
 
 .hero-card.selected {
-  border-color: #e62429;
+  border-color: #164204;
   background: rgba(230, 36, 41, 0.2);
   transform: scale(1.05);
 }
@@ -137,7 +137,7 @@
 }
 
 .hero-details h3 {
-  color: #e62429;
+  color: #164204;
   margin-bottom: 20px;
   font-size: 1.5em;
 }
@@ -159,7 +159,7 @@
   object-fit: cover;
   border-radius: 15px;
   flex-shrink: 0;
-  border: 3px solid #e62429;
+  border: 3px solid #164204;
 }
 
 .hero-detail-info {
@@ -168,9 +168,9 @@
 }
 
 .hero-detail-info h2 {
-  color: #e62429;
+  color: #164204;
   margin-top: 0;
-  border-bottom: 2px solid #e62429;
+  border-bottom: 2px solid #164204;
   padding-bottom: 10px;
   font-size: 1.8em;
 }
@@ -182,7 +182,7 @@
 }
 
 .hero-detail-info strong {
-  color: #e62429;
+  color: #164204;
 }
 
 .stats {
@@ -192,7 +192,7 @@
 }
 
 .stats h4 {
-  color: #e62429;
+  color: #164204;
   margin-bottom: 15px;
   font-size: 1.2em;
 }

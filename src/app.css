@@ -7,7 +7,7 @@
 }
 
 .App-header {
-  background: linear-gradient(135deg, #e62429 0%, #b11313 100%);
+  background: linear-gradient(135deg, #164204 0%, #164204 100%);
   padding: 40px 20px;
   color: white;
   margin-bottom: 30px;
@@ -29,10 +29,10 @@
 
 .error {
   font-size: 1.2em;
-  color: #ff6b6b;
+  color: #164204;
   padding: 40px;
   background-color: #2a0f0f;
-  border: 1px solid #e62429;
+  border: 1px solid #164204;
   border-radius: 8px;
   margin: 20px;
 }
